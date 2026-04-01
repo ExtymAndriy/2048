@@ -1,18 +1,51 @@
-🎮 Гра 2048 Класична гра 2048, реалізована на JavaScript. Мета гри — поєднати однакові числа, щоб отримати плитку з числом 2048 (або навіть більше 😏).
+🎮 Game 2048
+Classic 2048 game implemented in JavaScript. The goal is to combine identical numbers to reach the 2048 tile (or even higher 😏).
 
-🔍 Попередній перегляд https://extymandriy.github.io/2048/
 
-🎨 Посилання на дизайн Дизайн не надано
+🔍 Live Preview
+https://extymandriy.github.io/2048/
 
-🛠 Використані технології: HTML5, CSS3, JavaScript (ES6+).
 
-🚀 Початок роботи Щоб запустити проєкт локально, виконайте такі дії:
+🎨 Design Link
+No design provided
 
-Клонуйте репозиторій: git clone https://github.com/ExtymAndriy/2048.git cd 2048
-Залежності встановлення: npm install
-Запуск проєкту: npm start
-✨ Функції: 🎯 Класична механіка гри 2048 ⬅️➡️⬆️⬇️ Керування клавішами (стрілки) 🔢 Автоматичне об'єднання однакових плиток 💾 Збереження найкращого результату 🔄 Можливість почати гру спочатку
 
-🧠 Як грати Використовуйте клавіші зі стрілками, щоб переміщувати плитки. Коли дві однакові плитки торкаються одна одної, вони зливаються. Досягніть числа 2048, щоб виграти. Гра закінчується, коли більше немає можливих ходів.
+🛠 Technologies Used:
+    HTML5,
+    CSS3,
+    JavaScript (ES6+)
 
-✅ Контрольний список README Файл README не містить інструкцій, що стосуються лише Mate Academy. Є чіткий та лаконічний опис проекту Посилання на демо-версію працює правильно. Технології перелічені правильно Інструкції з налаштування прості та зрозумілі Репозиторій чистий та структурований
+
+🚀 Getting Started
+To run the project locally, follow these steps:
+
+    1. Clone the repository:
+        git clone https://github.com/ExtymAndriy/2048.git
+        cd 2048
+
+    2. Install dependencies:
+        npm install
+
+    3. Run the project:
+        npm start
+
+
+✨ Features
+    🎯 Classic 2048 gameplay
+    ⬅️➡️⬆️⬇️ Keyboard controls (arrow keys)
+    🔢 Automatic merging of identical tiles
+    💾 Best score saving
+    🔄 Ability to restart the game
+
+
+🧠 How to Play
+    Use the arrow keys to move the tiles. When two tiles with the same number touch, they merge into one. Reach the number 2048 to win. The game ends when no more moves are possible.
+
+
+✅ README Checklist
+    ✅The README file does not contain instructions specific to Mate Academy
+    ✅The project description is clear and concise
+    ✅The demo link works correctly
+    ✅Technologies are listed properly
+    ✅Setup instructions are simple and easy to follow
+    ✅The repository is clean and well-structured
